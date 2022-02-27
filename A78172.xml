@@ -1,0 +1,175 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A letter from an honourable gentleman in the court, certifying the examination of Mr. Iohn Cheisly Esquire, Secretary to the Commissioners of Scotland, who was taken and stayd at Newcastle, with his answer to the many interrogatories put unto him by the governour and major thereof, concerning Major-generall Massies going into Scotland, to rayse an army: and the Scots preparations to invade this kingdome. With some other advertisements concerning peace. Together with the certainty of the safe landing of Sir William Waller, Mr. Anthony Nicols, and other impeached members, at the Brill in Holland.</title>
+            <author>I. B.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1647</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 13 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A78172</idno>
+            <idno type="STC">Wing B85</idno>
+            <idno type="STC">Thomason E404_8</idno>
+            <idno type="STC">ESTC R201846</idno>
+            <idno type="EEBO-CITATION">99862335</idno>
+            <idno type="PROQUEST">99862335</idno>
+            <idno type="VID">114492</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A78172)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 114492)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 64:E404[8])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A letter from an honourable gentleman in the court, certifying the examination of Mr. Iohn Cheisly Esquire, Secretary to the Commissioners of Scotland, who was taken and stayd at Newcastle, with his answer to the many interrogatories put unto him by the governour and major thereof, concerning Major-generall Massies going into Scotland, to rayse an army: and the Scots preparations to invade this kingdome. With some other advertisements concerning peace. Together with the certainty of the safe landing of Sir William Waller, Mr. Anthony Nicols, and other impeached members, at the Brill in Holland.</title>
+                  <author>I. B.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>Printed in the yeere, 1647.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed at end: I.B.</note>
+                  <note>Place of publication from Wing.</note>
+                  <note>Annotation on Thomason copy: "Aug: 23".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Cheislie, John --  Early works to 1800.</term>
+               <term>Massey, Edward, --  Sir, 1619?-1674? --  Early works to 1800.</term>
+               <term>Waller, William, --  Sir, 1597?-1668 --  Early works to 1800.</term>
+               <term>Impeachments --  England --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-07</date>
+            <label>Lauren Proux</label>Sampled and proofread</change>
+         <change>
+            <date>2009-07</date>
+            <label>Lauren Proux</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:114492:1" rendition="simple:additions"/>
+            <p>A LETTER from an honourable Gentleman in the Court, certifying the Examination of Mr. <hi>Iohn Cheiſly</hi> Eſquire, Secretary to the Commiſsioners of <hi>Scotland,</hi> Who was taken and ſtayed at <hi>Newcaſtle,</hi> with his Anſwer to the many Interrogatories put unto him by the Governour and Major thereof, concerning Major Generall <hi>Maſsies</hi> going into <hi>Scotland,</hi> to rayſe an Army: And the Scots preparations to invade this Kingdome. With ſome other advertiſements concerning Peace. Together with the certainty of the ſafe landing of Sir <hi>William Waller,</hi> Mr. <hi>Anthony Nicols,</hi> and other impeached Members, at the <hi>Brill</hi> in <hi>Holland.</hi>
+            </p>
+            <p>Printed in the Yeere, 1647.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:114492:2"/>
+            <pb n="1" facs="tcp:114492:2"/>
+            <opener>
+               <salute>Sir:</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">I</seg> Have received your Letter advertiſing the health and preſent condition of his Majeſty, and the report of Major General Maſſies go<g ref="char:EOLhyphen"/>ing into Scotland; as alſo the confinement of Mr. <hi>John Cheiſty</hi> Eſquire, at New caſtle, who being examined, as you write, by the Major and Governour of that Towne, I muſt confeſſe I doe much affect your expreſſions, That he behaved himſelfe reſo<g ref="char:EOLhyphen"/>lutely like a Gentleman, and expreſſed himſelfe diſcreetly like a Secretary: and I do verily beleeve, that the Anſwer which he made to the Interrogatories to be very reall and according to his conſcience.</p>
+            <p n="1">1. That he knew not where Major Generall <hi>Maſſie</hi> was, and had nothing to ſatisfie them whether he was in Scotland, or no.</p>
+            <p n="2">2. That as for his owne particular, his Diſpatch from Lon<g ref="char:EOLhyphen"/>don into Scotland, was in no relation to any deſigne of Major Generall <hi>Maſey,</hi> or to rayſe any new war, but to labour to the utmoſt of his abilities for the eſtabliſhment of a true peace, and the preſervation of a right underſtanding betweene the two Kingdomes.</p>
+            <p n="3">3. That as hee had given already ſufficient demonſtrations to both Kingdomes of his integrity for five yeeres together, ſo he could not but lament his preſent unhappineſſe to have his fidelity now ſuſpected, and his indevours ſo churliſhly exami<g ref="char:EOLhyphen"/>ned, which did promiſe to themſelves a more fair conſtruction.</p>
+            <p>Sir, theſe indeed were honeſt expreſſions, in the which I do ſtill obſerve and commend your candor, that you are carefull to render to every one their due, and to continue your wonted courſe, which is wiſely to ſteer betwixt the two great factions in this Kingdome, the Whirlepoole, and the Rocke, without fear or danger of ſplitting againſt the one, or ingulphing with<g ref="char:EOLhyphen"/>in the other.</p>
+            <p>
+               <pb n="2" facs="tcp:114492:3"/>But ſince you are pleaſed to put your command upon me, to give you my opinion, and what I conceive will be the event of theſe fid times, and whether the Scots will take up Armes, and what it is probable that Major Generall <hi>Maſsy,</hi> (if there) may performe in the Kingdome of Scotland, or if the mercy of God ſhall ſo diſpoſe it, that there ſhall no ſword bee drawne betwixt the two Kingdomes, what may be the beſt meanes to reconcile the two different parties of this Kingdome, I will uſe my endevour to ſatisfie you, beſeeching you heerafter that you will put me upon more eaſie duties, and impute no more unto me, then I am well able to diſcharge.</p>
+            <p>For the Scots invading this Kingdome with a new Army, (let their Pulpits preſſe it never ſo much) I beleeve it is a thing at this preſent not to be feard. For unto the making of a war (it is a maxine in ſtate) that there are required theſe two great ſi<g ref="char:EOLhyphen"/>newes, Money, and Proviſions; without which, men wil fail, and war will fall of it ſelfe. For the firſt, you cannot be igno<g ref="char:EOLhyphen"/>rant, that the Kingdome of Scotland is extreamly neceſſitated: How many Letters of Invitation were ſent unto them before they entred our Kingdome laſt, when the North was unplun<g ref="char:EOLhyphen"/>dred, and the Kingdome in a more plentifull condition to ſatiſ<g ref="char:EOLhyphen"/>fie the appetite of the greedy ſoldiers then now it is: and yet the common ſoldiers would not then ſtir without three pound Engliſh, payd for advance to every man. Where is this mony to be had there now? what a ſum would this riſe to amongſt twenty thouſand men, although no man was to have above the allowance of a common ſoldier? But ſuppoſe (which is impoſſible to be granted) that this money was to be had, and the ſoldier on his march, what encouragement would he ſend for the future, where would he look for recruits? their demea<g ref="char:EOLhyphen"/>nour when they were heer laſt, being ſo full of rapine and op<g ref="char:EOLhyphen"/>preſſion, that the weaker ſort of our Nation in the North (be<g ref="char:EOLhyphen"/>leeve it Sir,) do tremble to heare of their comming againe into this Kingdome, and the more manly and reſolute party will ſtand on their guards, and loſe their lives every man in his own defence, before they will be perſwaded to re-admit them.</p>
+            <p>Beſides, they know very well, that there is a party in this
+<pb n="3" facs="tcp:114492:3"/>
+Kingdome, that doth ſo ſtrongly hate them, that if their Cove<g ref="char:EOLhyphen"/>nant ſhould hang a little lower in our Churches, their very Dogs would go neere to lift up their legges againſt it. And as they are deſtitute of money and incouragement, ſo they are in great diſtreſſe for proviſion, and (God bleſſe them) they doe ſtand in as great a need of health as that: for beſides want of health, the Peſtilence raging in many of their chiefeſt Cities and Towns, it may appeare in what diſtreſſe they are for want of proviſion both for man and horſe to ſuſtaine an Army; by the advance of Lievtenant Generall <hi>Leſley</hi> into the Highlanders, in the beginning of the laſt Spring, he being not able to march up againſt the Enemy, having reliefe neither for horſe nor men. And where ſhould they expect this relief if they ſhould march into England? The people who already know their tempers and have ſuffered almoſt beyond expreſſion, will on the firſt rumour of their advance, take all that they have with them, and drive all that they have before them, before they will bee made a prey unto ſuch gueſts againe.</p>
+            <p>You we<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e pleaſed to hint in your Letter, that there were ſome of quality in Newcaſtle, who would be ready to enter<g ref="char:EOLhyphen"/>taine them: Sir, the diſpoſure of ſuch a Towne as Newcaſtle, doth not lie at the pleaſure of two or three Merchants, beſides it is garriſoned by ſuch ſoldiers, as (I beleeve) will not on eaſie conditions ſurrender it to the Scots. You may adde to this that Colonell <hi>Lambert</hi> is not idle in the North, but is watchfull to diſcover all their deſignes, and to obſerve all their motions, and were they reſolved to re-invade this Kingdome, there is no doubt, but that with a powerfull Army, hee would meete them halfe way to give them entertainment.</p>
+            <p>But Sir, there is one thing more then all this, which is, the pleaſure of the King which you write mee word would cer<g ref="char:EOLhyphen"/>tainly countermand them in the march, or if they ſhould ad<g ref="char:EOLhyphen"/>vance into this Kingdome, they are like to paſſe under the no<g ref="char:EOLhyphen"/>tion of Traytors. Is it likely, Sir, that a Nation ſo provident as the Scots, who pretend nothing more then Allegeance to their King, would adventure themſelves in a warre, for which,
+<pb n="4" facs="tcp:114492:4"/>
+they ſhall be ſure to be proclaymed Traytors? Is it probable that a Nation ſo poore as the Scots, ſhould adventure to loſe that little which they have, to purchaſe a certaine and perpe<g ref="char:EOLhyphen"/>tuall poverty, and to inherit nothing but the winde, and their owne melancholy? Is it poſſible that a Nation ſo hungry as the Scots, ſhould forſake their meales, and their oaten cakes at home, to endure a wilfull famine abroad? Beſides the valour and reſolution of the Engliſh is well knowne unto the Scots, and is it likely that they will adventure their fortunes, their food, their limbes, their lives, to imbrace a grave, or (which is worſe then that) the infamy of a ſhamefull flight? Religion is made a pretence for all warres, but I could never yet finde that it did ever thrive by any; Schiſmes and Hereſies are never more fruitfull then when the ſword is drawne.</p>
+            <p>But you will object, that the Scots doe expect many abet<g ref="char:EOLhyphen"/>tors, and have much aſſiſtance promiſed them from the Presby<g ref="char:EOLhyphen"/>terian party in the Kingdome; it is not doubted, but where will thoſe recruits appeare? Hath not Sir <hi>Tho. Fairefax</hi> taken the poſſeſſion of the Tower of London, and all the Magazines of the City, ſo that if a Musket ſhould be unfixed, or a Pike broken, I cannot direct them for the preſent where to relieve themſelves; nay, are not all the moſt conſiderable places in the Kingdome garriſoned by his Army? They muſt be ſurely more then deſperate that will adventure themſelves in this Kingdome without money, without proviſion, without incou<g ref="char:EOLhyphen"/>ragements, without reſerves or recruits, or a place of ſecurity to retire unto.</p>
+            <p>As concerning Major Generall <hi>Maſſey,</hi> I doe conceive that you have not ſtated the queſtion aright, for I believe, it is not to be propounded whether Major Generall <hi>Maſſie</hi> would bee in the Head of the Scotch Army, or no, for the defence of the Covenant, or the Presbyterian party; but whether Major Ge<g ref="char:EOLhyphen"/>nerall <hi>Maſſie</hi> would adventure in the ſervice to bring an Ar<g ref="char:EOLhyphen"/>my from Scotland into England, if his Majeſty ſhould cauſe him to be proclaymed Traytor that ſhould undertake it; Cer<g ref="char:EOLhyphen"/>tainly not: There is no queſtion but the obligation of his Al<g ref="char:EOLhyphen"/>legeance
+<pb n="5" facs="tcp:114492:4"/>
+would put him into a tamer poſture. And for my part, if he be in that Kingdome, (as truly Sir, I doe much doubt it, and can give many reaſons for it) I doe believe that he would rather indure the melancholy of a man that indured a willing baniſhm<gap reason="illegible" resp="#UOM" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> for a while, then incur the ſentence and the infa<g ref="char:EOLhyphen"/>my of a Traitour for ever.</p>
+            <p>Concerning your deſire to be ſatisfied, what is the beſt ex<g ref="char:EOLhyphen"/>pedient to reconcile the two different parties in the King<g ref="char:EOLhyphen"/>dome: Truely Sir, I would I were as well able to give coun<g ref="char:EOLhyphen"/>ſell for the performing of it, as I ſhould receive a moſt hearty and undiſſembling joy to ſee it performed; I would doe very well (as you write) that ſome good courſe might be found for the taking away the unagreeable names of Presbyterian and Independent, and that no more they might be heard amongſt us; but that wee might be all of one affection as well as of one Nation; but as long as the practice holds, I believe that the names will continue. Sir what doe you thinke (as it hath beene obſerved in this City of London) that as one King is ſometimes free of one Company of the City, and ſometimes one King of another, as one King may be free of the Compa<g ref="char:EOLhyphen"/>ny of the Merchant Taylors and another of the Mercers, not that one of them is a Woollen Draper, or the other a Mercer, but to keepe the Companies even and entire, and to ſuppreſſe all envy, f<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ction, and pride of ſpirit, which otherwiſe might grow upon them? ſo what if his Majeſty ſhould ſeem inclined to the Independent party, and the Prince to the Presbyterian, not that his Majeſty is an Independent, or the Prince a Pres<g ref="char:EOLhyphen"/>byterian? but ſo to temper by policy, and to poyſe both par<g ref="char:EOLhyphen"/>ties that a mutuall confidence and reconcilement may be had, and by degrees ſo to qualifie and ſuppreſſe them, that at length which may be the worke of leſſe then ſeaven yeares) as well their names as practice may be loſt, and the Proteſtant Religi<g ref="char:EOLhyphen"/>on flouriſh in its native beauty: How happy would it be that free Parliaments ſhould enjoy their knowne Priviledges, and the Kingdome ſmile againe in peace, ſafety, and happi<g ref="char:EOLhyphen"/>neſſe the end of all their travells?</p>
+            <p>
+               <pb n="6" facs="tcp:114492:5"/>Sir I have ſomething more to annex, but I am abruptly cal<g ref="char:EOLhyphen"/>led away, which I muſt beſeech you to excuſe, and with all my rudeneſſe, that I have already ſo unmannerly tormented you with the length of this Letter, which I hope will be the eaſier pardoned becauſe it was in a deſire to content you, which ſhalbe the conſtant indevour of him, who is,</p>
+            <closer>
+               <salute>SIR,</salute>
+               <signed>Your thrice humble and thrice affectionate ſervant, <hi>I.</hi> 
+                  <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</signed>
+            </closer>
+            <postscript>
+               <p>Sir, As I had made an end of writing this, there came to my hands a certain advertiſement confirmed by ſeverall Letters from beyond the Seas, that the impeached Members are ſafely landed at the <hi>Bril</hi> in <hi>Holland</hi>; neither is Sir <hi>William Waller</hi> or any of them taken priſoners, as it was reported.</p>
+            </postscript>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
